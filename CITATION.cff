@@ -1,17 +1,24 @@
 cff-version: 1.2.0
 message: "If you use this code, please cite the associated article."
 title: "Statistical analysis code for percutaneous alcohol sclerotherapy of simple hepatic cysts"
+version: "2.0.0"
 authors:
   - family-names: Hwang
     given-names: Hyeonseung
-  - family-names: Chu
-    given-names: Hee Ho
   - family-names: Kim
     given-names: Jin Hyoung
   - family-names: Ko
     given-names: Gi-Young
+  - family-names: Chu
+    given-names: Hee Ho
   - family-names: Cho
     given-names: Soo Buem
+  - family-names: Jang
+    given-names: Jungho
+  - family-names: Jun
+    given-names: Hoyong
+  - family-names: Jeon
+    given-names: Ga Young
   - family-names: Gwon
     given-names: Dong Il
 license: MIT
